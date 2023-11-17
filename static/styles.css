@@ -1,0 +1,4 @@
+/* memo変数内の改行をCSSで表示 */
+.memo-content {
+    white-space: pre-line;
+}
